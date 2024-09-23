@@ -1,0 +1,14 @@
+---
+:id: 204883558
+:submitters:
+- :name: Arpit Jain
+  :email: ee3230899@ee.iitd.ac.in
+- :name: Devesh Sharma
+  :email: ce1231010@civil.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-21 17:35:47.439044000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-21 10:35:47.439044000 Z
+:status: processed
+:score: 6.0
